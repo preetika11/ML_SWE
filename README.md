@@ -1,1 +1,3 @@
-# ML_SWE
+### ML_SWE
+#This repository is for my Machine Learning class project at UWyo (COSC 5555). 
+<p> Climate change is impacting snowpack dynamics such as timing of snow melt. Accurate prediction of snowmelt runoff will aid in water supply forecasting. Snow being an important water resource in the Western United States, accurate assessments of its availability are crucial for regional water managers. They need to make informed decisions on how to allocate water among diverse stakeholder needs (Schneider & Molotch, 2016). Precise estimation of SWE plays a pivotal role in determining the amount of spring and summer runoff. Thus, SWE estimates are a vital component of water resources prediction and forecasting, which can help water managers plan ahead and ensure sustainable water management practices for the long term (Meyal et al., 2020). 
