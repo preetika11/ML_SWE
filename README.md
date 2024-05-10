@@ -5,3 +5,6 @@
 
 ### Goal of this project
 <p> To leverage the application of a range of machine learning models, starting from simplistic regression models to more complex deep learning models such as long short-term memory network (LSTM) as utilized by researchers in the past. We plan to gain a comprehensive understanding of different models by working with realistic datasets acquired from various Snow Telemetry (SNOTEL) sites. This would help us to obtain hands-on experiences that will aid our comprehension of automation and parameter prediction in the water resources sector. Through this we would go through the step-by-step process of data acquisition, pre -processing of raw datasets, exploratory data exploration, and model selection. We hope to gain the skills and knowledge necessary to improve our ability to predict and manage snow melt.</p>
+
+### Study Site
+<img src="images/studysite.jpg" alt="Your Image">
